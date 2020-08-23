@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Model>
+    <Name>Tracker</Name>
+    <AvailableEngines>
+      <string>2.4L inline 4cyl</string>
+      <string>Turbocharged 2.4L inline 4cyl</string>
+      <string>3.6L V6</string>
+      <string>5.2L V8</string>
+    </AvailableEngines>
+    <AvailableInteriorClothColors>
+      <string>Grey</string>
+      <string>Black</string>
+      <string>Beige</string>
+    </AvailableInteriorClothColors>
+    <AvailableInteriorLeatherColors>
+      <string>Brown</string>
+      <string>Black</string>
+      <string>White</string>
+    </AvailableInteriorLeatherColors>
+    <AvailableExteriorColors>
+      <string>Red</string>
+      <string>Black</string>
+      <string>Blue</string>
+      <string>Silver</string>
+      <string>Grey</string>
+    </AvailableExteriorColors>
+    <TrimPrices>
+      <decimal>45000</decimal>
+      <decimal>50029</decimal>
+      <decimal>54610</decimal>
+      <decimal>60709</decimal>
+    </TrimPrices>
+  </Model>
+  <Model>
+    <Name>Force</Name>
+    <AvailableEngines>
+      <string>2.4L inline 4cyl</string>
+      <string>Turbocharged 2.4L inline 4cyl</string>
+      <string>3.6L V6</string>
+      <string>Twin-Turbocharged 4.6L V8</string>
+    </AvailableEngines>
+    <AvailableInteriorClothColors>
+      <string>Grey</string>
+      <string>Black</string>
+      <string>Beige</string>
+    </AvailableInteriorClothColors>
+    <AvailableInteriorLeatherColors>
+      <string>Brown</string>
+      <string>Black</string>
+      <string>White</string>
+    </AvailableInteriorLeatherColors>
+    <AvailableExteriorColors>
+      <string>Red</string>
+      <string>Black</string>
+      <string>Blue</string>
+      <string>Silver</string>
+      <string>Grey</string>
+    </AvailableExteriorColors>
+    <TrimPrices>
+      <decimal>61000</decimal>
+      <decimal>69000</decimal>
+      <decimal>74390</decimal>
+      <decimal>79999</decimal>
+    </TrimPrices>
+  </Model>
+  <Model>
+    <Name>Wildcat</Name>
+    <AvailableEngines>
+      <string>2.4L inline 4cyl</string>
+      <string>Turbocharged 2.4L inline 4cyl</string>
+      <string>3.6L V6</string>
+      <string>5.2L V8</string>
+    </AvailableEngines>
+    <AvailableInteriorClothColors>
+      <string>Grey</string>
+      <string>Black</string>
+      <string>Beige</string>
+    </AvailableInteriorClothColors>
+    <AvailableInteriorLeatherColors>
+      <string>Brown</string>
+      <string>Black</string>
+      <string>White</string>
+    </AvailableInteriorLeatherColors>
+    <AvailableExteriorColors>
+      <string>Red</string>
+      <string>Black</string>
+      <string>Blue</string>
+      <string>Silver</string>
+      <string>Grey</string>
+    </AvailableExteriorColors>
+    <TrimPrices>
+      <decimal>39000</decimal>
+      <decimal>45000</decimal>
+      <decimal>51000</decimal>
+      <decimal>57000</decimal>
+    </TrimPrices>
+  </Model>
+  <Model>
+    <Name>Luna</Name>
+    <AvailableEngines>
+      <string>2.4L inline 4cyl</string>
+    </AvailableEngines>
+    <AvailableInteriorClothColors>
+      <string>Grey</string>
+      <string>Black</string>
+      <string>Beige</string>
+    </AvailableInteriorClothColors>
+    <AvailableInteriorLeatherColors>
+      <string>Brown</string>
+      <string>Black</string>
+      <string>White</string>
+    </AvailableInteriorLeatherColors>
+    <AvailableExteriorColors>
+      <string>Red</string>
+      <string>Black</string>
+      <string>Blue</string>
+      <string>Silver</string>
+      <string>Grey</string>
+      <string>White</string>
+      <string>Beige</string>
+    </AvailableExteriorColors>
+    <TrimPrices>
+      <decimal>17000</decimal>
+      <decimal>19100</decimal>
+      <decimal>21040</decimal>
+      <decimal>24199</decimal>
+    </TrimPrices>
+  </Model>
+  <Model>
+    <Name>Wasp</Name>
+    <AvailableEngines>
+      <string>2.4L inline 4cyl</string>
+      <string>Turbocharged 2.4L inline 4cyl</string>
+    </AvailableEngines>
+    <AvailableInteriorClothColors>
+      <string>Grey</string>
+      <string>Black</string>
+      <string>Beige</string>
+    </AvailableInteriorClothColors>
+    <AvailableInteriorLeatherColors>
+      <string>Brown</string>
+      <string>Black</string>
+      <string>White</string>
+    </AvailableInteriorLeatherColors>
+    <AvailableExteriorColors>
+      <string>Red</string>
+      <string>Black</string>
+      <string>Blue</string>
+      <string>Silver</string>
+      <string>Grey</string>
+      <string>White</string>
+      <string>Beige</string>
+    </AvailableExteriorColors>
+    <TrimPrices>
+      <decimal>23998</decimal>
+      <decimal>28998</decimal>
+      <decimal>33998</decimal>
+      <decimal>38998</decimal>
+    </TrimPrices>
+  </Model>
+</ArrayOfModel>

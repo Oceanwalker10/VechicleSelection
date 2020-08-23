@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vehicle>
+    <Options>
+      <string>Cloth Interior</string>
+      <string>Standard 16" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Heated/cooled Seats</string>
+    </Options>
+    <FName>John</FName>
+    <LName>Doe</LName>
+    <DeliveryAddress>5234 alalf dr.</DeliveryAddress>
+    <DeliveryDate>2019-12-19T00:00:00</DeliveryDate>
+    <VehicleName>Wasp</VehicleName>
+    <Engines>2.4L inline 4cyl</Engines>
+    <InteriorColors>Beige</InteriorColors>
+    <ExteriorColors>Black</ExteriorColors>
+    <TrimLevel>X Trim Level</TrimLevel>
+    <Cost>29298</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Leather Interior</string>
+      <string>Premium 17" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Sun Roof</string>
+      <string>Heated/cooled Seats</string>
+    </Options>
+    <FName>Black</FName>
+    <LName>Jack</LName>
+    <DeliveryAddress>345 bell Dr.</DeliveryAddress>
+    <DeliveryDate>2019-12-26T00:00:00</DeliveryDate>
+    <VehicleName>Force</VehicleName>
+    <Engines>Twin-Turbocharged 4.6L V8</Engines>
+    <InteriorColors>White</InteriorColors>
+    <ExteriorColors>Red</ExteriorColors>
+    <TrimLevel>ESP Trim Level</TrimLevel>
+    <Cost>80544</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Cloth Interior</string>
+      <string>Standard 16" Wheels</string>
+      <string>Standard Radio</string>
+    </Options>
+    <FName>Philip</FName>
+    <LName>Steve</LName>
+    <DeliveryAddress>23 Hdd Dr.</DeliveryAddress>
+    <DeliveryDate>2019-12-16T00:00:00</DeliveryDate>
+    <VehicleName>Tracker</VehicleName>
+    <Engines>2.4L inline 4cyl</Engines>
+    <InteriorColors>Grey</InteriorColors>
+    <ExteriorColors>Black</ExteriorColors>
+    <TrimLevel>D Trim Level</TrimLevel>
+    <Cost>45000</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Cloth Interior</string>
+      <string>Standard 16" Wheels</string>
+      <string>Standard Radio</string>
+    </Options>
+    <FName>Billy</FName>
+    <LName>Camp</LName>
+    <DeliveryAddress>4345 alan Hwy</DeliveryAddress>
+    <DeliveryDate>2019-12-11T00:00:00-06:00</DeliveryDate>
+    <VehicleName>Tracker</VehicleName>
+    <Engines>2.4L inline 4cyl</Engines>
+    <InteriorColors>Grey</InteriorColors>
+    <ExteriorColors>Red</ExteriorColors>
+    <TrimLevel>D Trim Level</TrimLevel>
+    <Cost>45000</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Leather Interior</string>
+      <string>Premium 17" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Sun Roof</string>
+      <string>Heated/cooled Seats</string>
+    </Options>
+    <FName>Bill</FName>
+    <LName>Gates</LName>
+    <DeliveryAddress>1 How Rd.</DeliveryAddress>
+    <DeliveryDate>2019-12-11T00:00:00-06:00</DeliveryDate>
+    <VehicleName>Tracker</VehicleName>
+    <Engines>5.2L V8</Engines>
+    <InteriorColors>Black</InteriorColors>
+    <ExteriorColors>Grey</ExteriorColors>
+    <TrimLevel>ESP Trim Level</TrimLevel>
+    <Cost>61254</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Leather Interior</string>
+      <string>Premium 17" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Sun Roof</string>
+      <string>Heated/cooled Seats</string>
+    </Options>
+    <FName>John</FName>
+    <LName>Smith</LName>
+    <DeliveryAddress>3453 Bilib Dsr</DeliveryAddress>
+    <DeliveryDate>2019-12-23T00:00:00</DeliveryDate>
+    <VehicleName>Wasp</VehicleName>
+    <Engines>Turbocharged 2.4L inline 4cyl</Engines>
+    <InteriorColors>Black</InteriorColors>
+    <ExteriorColors>Black</ExteriorColors>
+    <TrimLevel>Z Trim Level</TrimLevel>
+    <Cost>35193</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Cloth Interior</string>
+      <string>Standard 16" Wheels</string>
+      <string>Standard Radio</string>
+    </Options>
+    <FName>Bill</FName>
+    <LName>Bob</LName>
+    <DeliveryAddress>2354 Bib Dr.</DeliveryAddress>
+    <DeliveryDate>2019-12-18T00:00:00</DeliveryDate>
+    <VehicleName>Tracker</VehicleName>
+    <Engines>Turbocharged 2.4L inline 4cyl</Engines>
+    <InteriorColors>Grey</InteriorColors>
+    <ExteriorColors>Red</ExteriorColors>
+    <TrimLevel>D Trim Level</TrimLevel>
+    <Cost>45000</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Leather Interior</string>
+      <string>Premium 17" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Sun Roof</string>
+      <string>Heated/cooled Seats</string>
+    </Options>
+    <FName>Bill</FName>
+    <LName>Thompson</LName>
+    <DeliveryAddress>234 Bib Street</DeliveryAddress>
+    <DeliveryDate>2019-12-16T00:00:00</DeliveryDate>
+    <VehicleName>Force</VehicleName>
+    <Engines>Twin-Turbocharged 4.6L V8</Engines>
+    <InteriorColors>Black</InteriorColors>
+    <ExteriorColors>Blue</ExteriorColors>
+    <TrimLevel>ESP Trim Level</TrimLevel>
+    <Cost>80544</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Leather Interior</string>
+      <string>Premium 17" Wheels</string>
+      <string>Premium Radio</string>
+    </Options>
+    <FName>Bob</FName>
+    <LName>Stove</LName>
+    <DeliveryAddress>234 Unit Street</DeliveryAddress>
+    <DeliveryDate>2020-01-01T00:00:00</DeliveryDate>
+    <VehicleName>Luna</VehicleName>
+    <Engines>2.4L inline 4cyl</Engines>
+    <InteriorColors>Brown</InteriorColors>
+    <ExteriorColors>Red</ExteriorColors>
+    <TrimLevel>Z Trim Level</TrimLevel>
+    <Cost>21585</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Leather Interior</string>
+      <string>Premium 17" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Sun Roof</string>
+      <string>Heated/cooled Seats</string>
+      <string>Leather Interior</string>
+      <string>Premium 17" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Sun Roof</string>
+      <string>Heated/cooled Seats</string>
+    </Options>
+    <FName>Jack</FName>
+    <LName>Smith</LName>
+    <DeliveryAddress>322 asd St.</DeliveryAddress>
+    <DeliveryDate>2019-12-18T00:00:00</DeliveryDate>
+    <VehicleName>Wildcat</VehicleName>
+    <Engines>5.2L V8</Engines>
+    <InteriorColors>Black</InteriorColors>
+    <ExteriorColors>Blue</ExteriorColors>
+    <TrimLevel>ESP Trim Level</TrimLevel>
+    <Cost>57545</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Leather Interior</string>
+      <string>Standard 16" Wheels</string>
+      <string>Premium Radio</string>
+    </Options>
+    <FName>Boy</FName>
+    <LName>Guy</LName>
+    <DeliveryAddress>I dont know</DeliveryAddress>
+    <DeliveryDate>2019-12-26T00:00:00</DeliveryDate>
+    <VehicleName>Tracker</VehicleName>
+    <Engines>2.4L inline 4cyl</Engines>
+    <InteriorColors>Black</InteriorColors>
+    <ExteriorColors>Black</ExteriorColors>
+    <TrimLevel>X Trim Level</TrimLevel>
+    <Cost>50029</Cost>
+  </Vehicle>
+  <Vehicle>
+    <Options>
+      <string>Cloth Interior</string>
+      <string>Standard 16" Wheels</string>
+      <string>Premium Radio</string>
+      <string>Heated/cooled Seats</string>
+    </Options>
+    <FName>test</FName>
+    <LName>test</LName>
+    <DeliveryAddress>test</DeliveryAddress>
+    <DeliveryDate>2020-09-06T00:00:00-05:00</DeliveryDate>
+    <VehicleName>Luna</VehicleName>
+    <Engines>2.4L inline 4cyl</Engines>
+    <InteriorColors>Black</InteriorColors>
+    <ExteriorColors>Black</ExteriorColors>
+    <TrimLevel>X Trim Level</TrimLevel>
+    <Cost>19400</Cost>
+  </Vehicle>
+</ArrayOfVehicle>
